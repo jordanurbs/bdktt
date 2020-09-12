@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Jordan Urbanovich",
+    "label": "Semi-serious fitness enthusiast.",
+    "picture": "",
+    "email": "jordanurbs@pm.me",
+    "website": "https://jordanurbs.com",
+    "summary": "Re-discovering his love for fitness, Jordan is an athlete without passion. He grew up hating organized sports but loving the camaraderie, found solace in yoga until it got too restrictive, both mentally & physically.",
+    "location": {
+      "address": "Quarantine",
+      "city": "Cordoba",
+      "countryCode": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "JordanUrbs",
+        "url": "https://twitter.com/JordanUrbs"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "JordanUrbs",
+        "url": "https://soundcloud.com/JordanUrbs"
+      },
+      {
+        "network": "GitHub",
+        "username": "JordanUrbs",
+        "url": "https://github.com/JordanUrbs"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "The Sanctuary",
+      "position": "Volunteer Yoga and Dynamic Breathing Instructor",
+      "startDate": "2013-3-01",
+      "endDate": "2013-6-01",
+      "summary": "I taught vinyasa style logo at a holistic healing retreat center in southern Mexico. They ended up putting me in charge for some reason and I still have the trauma from the power trip it caused my ego."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Steve's Meat Market",
+      "position": "Assistant",
+      "website": "",
+      "startDate": "1995-01-01",
+      "endDate": "1997-03-20",
+      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "highlights": [
+        "Awarded a 'Helium Biscuit'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Long Beach",
+      "area": "French",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2006-08-01",
+      "endDate": "2010-05-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Perpendicular Crosstalk",
+        "CS2011 - Introduction to Moisturization"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Warble Pioneer Award",
+      "date": "2001-11-01",
+      "awarder": "Levi Goulet",
+      "summary": "Have you seen my turtle?"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Radio Julius",
+      "publisher": "Tanyo Lubbock",
+      "releaseDate": "2014-10-01",
+      "website": "https://en.rhy.es",
+      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Audio Juggling",
+      "level": "Master",
+      "keywords": [
+        "Ointment",
+        "Voltor",
+        "Millipedes"
+      ]
+    },
+    {
+      "name": "Bruschotti",
+      "level": "Satisfactory",
+      "keywords": [
+        "Snow camp",
+        "Owl"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Nonsense",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "The Information Superhighway",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": " Nannette Nananacci",
+      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
