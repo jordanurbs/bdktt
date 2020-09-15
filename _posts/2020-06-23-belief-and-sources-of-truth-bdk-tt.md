@@ -1,7 +1,7 @@
 ---
 title: "Belief and Sources of Truth"
 date: "2020-06-23"
-coverImage: "/assets/images/0xef0vdq73g-scaled.jpg"
+image: "/assets/images/0xef0vdq73g-scaled.jpg"
 categories:
   - essays
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Critical Thinking Tools"
 date: "2020-07-19"
-coverImage: "/assets/images/b4op5oz4x5q-scaled.jpg"
+image: "/assets/images/b4op5oz4x5q-scaled.jpg"
 categories:
   - essays
 tags:

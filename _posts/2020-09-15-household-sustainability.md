@@ -1,7 +1,7 @@
 ---
 title: "Household Sustainability"
 date: "2020-09-15"
-coverImage: "/assets/images/compost.jpg"
+image: "/assets/images/compost.jpg"
 categories:
   - cta
 tags:

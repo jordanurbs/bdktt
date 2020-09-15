@@ -1,7 +1,7 @@
 ---
 title: "\"Waddling Toddler Tiger\" - My First BDK Mobility Sequence"
 date: "2020-09-07"
-coverImage: "/assets/images/Screen-Shot-2020-09-07-at-8.04.46-PM.png"
+image: "/assets/images/Screen-Shot-2020-09-07-at-8.04.46-PM.png"
 categories:
   - sequences
 tags:

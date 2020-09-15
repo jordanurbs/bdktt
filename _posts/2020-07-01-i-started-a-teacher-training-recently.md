@@ -1,7 +1,7 @@
 ---
 title: "I started a teacher training recently."
 date: "2020-07-01"
-coverImage: "/assets/images/ugljhmeifb4-scaled.jpg"
+image: "/assets/images/ugljhmeifb4-scaled.jpg"
 categories:
   - reflections
 tags:
