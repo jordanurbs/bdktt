@@ -1,7 +1,7 @@
 ---
 title: "Love Languages"
 date: "2020-06-02"
-coverImage: "2podhmrvlik.jpg"
+coverImage: "/assets/images/2podhmrvlik.jpg"
 categories:
   - essays
 tags:

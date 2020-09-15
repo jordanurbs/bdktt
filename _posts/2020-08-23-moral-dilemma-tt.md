@@ -1,7 +1,7 @@
 ---
 title: "Moral Dilemma"
 date: "2020-08-23"
-coverImage: "qfc2kxpxvyq-scaled-e1599580823988.jpg"
+coverImage: "/assets/images/qfc2kxpxvyq-scaled-e1599580823988.jpg"
 categories:
   - essays
 tags:
