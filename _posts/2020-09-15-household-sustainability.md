@@ -1,7 +1,7 @@
 ---
 title: "Household Sustainability"
 date: "2020-09-15"
-image: "/assets/images/compost.jpg"
+image: "/assets/images/tupperware.jpg"
 categories:
   - cta
 tags:
@@ -13,6 +13,9 @@ A month or so back, we bought a compost bin from a local group we found on Insta
 Also in that time we started ordering the weekly deliveries from nearby organic farmers. The first farmer delivered in a wooden box, but they didn’t want the box back after the first week. It was also quite expensive, so we found another reasonable farmer with more reasonable prices—the problem was they deliver in one big plastic bag (which is better than several little plastic bags, but still not ideal), so we are asking them if they have an alternative. Everyone likes to use the pandemic as an excuse to use more plastic.
 
 Meanwhile, in the past 3 months we have planted a full-on herb+greens garden in the backyard, my partner uses re-usable pads for her moon cycle, we use citrus peels with water and vinegar to make our own household cleaner, we hire a recycling company to come take our recyclables every 2 weeks (and the fruits of that go towards supporting those in poverty), we bought silk bags for putting things like nuts or legumes while shopping, and imported some reusable diapers (~80% import tax here but it’s been important to us). 
+
+<img src="/assets/images/compost.jpg">
+
 We will not see a return on these investments for quite some time—the diapers were quite expensive—but we were never in it for the money. It’s appalling how many diapers babies use and how buying big packs of them (in plastic wraps) is just what we do as a society… what did they use back in the day for baby shits?  Not to mention, we have to wash the reusable diapers every day (we have in the neighborhood of 12, which may or may not be as many as needed in one single day). The washing uses water, soap, and power. Are we really making up for the plastic that we’re not buying that way? I don’t know. But I love not having to support these fucking diaper companies that place Disney characters on my child’s bottom.
 
 <img src="/assets/images/diapers.jpg">
