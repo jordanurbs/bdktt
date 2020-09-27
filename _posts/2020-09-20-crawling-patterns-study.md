@@ -10,7 +10,7 @@ tags:
 This is the film that got me following Budokon. I started watching Cameron’s instagram clips and tried mimicking them. What I was gathering by imitation online was helping my back issues—a lot. When they finally announced their online academy this February, I was all-in. 
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=V3ixqpuQ1cA"></iframe>
+ <iframe class="embed-responsive-item" width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://tube.bdklab.com/videos/embed/43055f8c-2968-406e-8678-71f2d35b7829" frameborder="0" allowfullscreen></iframe>
 </div>
 
 It’s been an absolute life-changing experience to jump into this stuff head-on with the BDK Mobility TT—so let’s dive into what Cameron says in this film to discuss a bit of the why this might be so impactful for me:
