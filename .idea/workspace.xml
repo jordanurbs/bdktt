@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fc808a3-ecef-4756-aff2-8e3c862b8abf" name="Default Changelist" comment="blank home" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1hPeVE0USDMaJhgXB9VifnvBZiR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fc808a3-ecef-4756-aff2-8e3c862b8abf" name="Default Changelist" comment="" />
+      <created>1599917176299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599917176299</updated>
+      <workItem from="1599917177511" duration="8533000" />
+      <workItem from="1599941639659" duration="1089000" />
+      <workItem from="1600001952624" duration="1122000" />
+      <workItem from="1600174059458" duration="1097000" />
+      <workItem from="1600175225367" duration="107000" />
+      <workItem from="1600179757741" duration="362000" />
+      <workItem from="1600188580584" duration="1256000" />
+      <workItem from="1600299676356" duration="21000" />
+    </task>
+    <task id="LOCAL-00001" summary="everythang">
+      <created>1599940411833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599940411833</updated>
+    </task>
+    <task id="LOCAL-00002" summary="everythang">
+      <created>1599940755128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599940755128</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix some things, update about">
+      <created>1599941271220</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599941271220</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add disqus, fix path">
+      <created>1599941979875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599941979875</updated>
+    </task>
+    <task id="LOCAL-00005" summary="household sustainability post, fix blog coverimages">
+      <created>1600174441648</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600174441648</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix hero image tag">
+      <created>1600174503051</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600174503051</updated>
+    </task>
+    <task id="LOCAL-00007" summary="formatting household sust">
+      <created>1600174562016</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600174562016</updated>
+    </task>
+    <task id="LOCAL-00008" summary="home">
+      <created>1600174983059</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600174983059</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CV">
+      <created>1600175113105</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600175113105</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hoem/about">
+      <created>1600175320604</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600175320605</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add diapers img">
+      <created>1600179880122</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600179880122</updated>
+    </task>
+    <task id="LOCAL-00012" summary="tupperware photo">
+      <created>1600188672791</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600188672791</updated>
+    </task>
+    <task id="LOCAL-00013" summary="tupperware photo">
+      <created>1600188885555</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600188885555</updated>
+    </task>
+    <task id="LOCAL-00014" summary="blank home">
+      <created>1600189469020</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600189469020</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="everythang" />
+    <MESSAGE value="fix some things, update about" />
+    <MESSAGE value="add disqus, fix path" />
+    <MESSAGE value="household sustainability post, fix blog coverimages" />
+    <MESSAGE value="fix hero image tag" />
+    <MESSAGE value="formatting household sust" />
+    <MESSAGE value="home" />
+    <MESSAGE value="CV" />
+    <MESSAGE value="hoem/about" />
+    <MESSAGE value="add diapers img" />
+    <MESSAGE value="tupperware photo" />
+    <MESSAGE value="blank home" />
+    <option name="LAST_COMMIT_MESSAGE" value="blank home" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1620" height="790" key="DiffContextDialog" timestamp="1600189208054">
+      <screen x="0" y="23" width="1920" height="1018" />
+    </state>
+    <state x="100" y="123" width="1620" height="790" key="DiffContextDialog/-1680.695.1680.1027/0.23.1920.1018/1920.-173.1080.1897@0.23.1920.1018" timestamp="1600189208054" />
+    <state x="504" y="264" key="Vcs.Push.Dialog.v2" timestamp="1600189472015">
+      <screen x="0" y="23" width="1920" height="1018" />
+    </state>
+    <state x="504" y="264" key="Vcs.Push.Dialog.v2/-1680.695.1680.1027/0.23.1920.1018/1920.-173.1080.1897@0.23.1920.1018" timestamp="1600189472015" />
+    <state x="441" y="258" key="Vcs.Push.Dialog.v2/0.23.1680.991@0.23.1680.991" timestamp="1599941275318" />
+    <state x="100" y="123" width="1620" height="790" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600189208055">
+      <screen x="0" y="23" width="1920" height="1018" />
+    </state>
+    <state x="100" y="123" width="1620" height="790" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1680.695.1680.1027/0.23.1920.1018/1920.-173.1080.1897@0.23.1920.1018" timestamp="1600189208055" />
+    <state x="639" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599940742802">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state x="639" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.991@0.23.1680.991" timestamp="1599940742802" />
+    <state x="577" y="247" width="766" height="695" key="search.everywhere.popup" timestamp="1600189392121">
+      <screen x="0" y="23" width="1920" height="1018" />
+    </state>
+    <state x="577" y="247" width="766" height="695" key="search.everywhere.popup/-1680.695.1680.1027/0.23.1920.1018/1920.-173.1080.1897@0.23.1920.1018" timestamp="1600189392121" />
+    <state x="505" y="241" width="670" height="676" key="search.everywhere.popup/0.23.1680.991@0.23.1680.991" timestamp="1599941082291" />
+  </component>
+</project>
