@@ -12,11 +12,9 @@ Posture is a key component to keeping this beginner’s mind. Perhaps the postur
 
 Control versus observation. Societies, like the ego, like to control. But controlling is a futile effort, a waste of energy. A beginner’s mind takes part in activities without emotions attached. Activities are pure, with focus and attention. Just like breathing. Like waves of the sea, one doesn’t try to control them… one just observes them coming. And going. Coming. And going.
 
-Thoughts and the thought process are also to be observed as opposed to controlled. Thoughts can come and go, there is no need to hide from or fight them. Observe them come and go.
+Thoughts and the thought process are also to be observed as opposed to controlled. Thoughts can come and go, there is no need to hide from or fight them. Observe them come and go. An empty realm of the mind is the proper state of purity--beginner's mind--for practice. Assume nothing, expect nothing, bring nothing to your Zen practice except your limitless curiosity.
 
-Emptiness is the beginner’s mind and the state of purity. Assume nothing, expect nothing, bring nothing to your Zen practice except your limitless curiosity.
-
-
+Bringing this into my everyday life? Observing. Stopping to breathe. In moments heated, observe. Remembering to stay curious even when I think I know. Breathing. In. Out. In. Out. Limitlessness can be compassion can be patience can be the empathy so unfortunately lacking in me at times.
 
 
 
