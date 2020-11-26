@@ -1,14 +1,17 @@
 ---
-title: "Final Video Exam 3"
+title: "Final Video Exam 3: House of the Rising Dragon"
 date: "2020-11-10"
 categories:
   - certification
 tags:
   - chapter 7
 ---
-I won't embellish my feelings on this assignment. It would have been my favorite, had I not unleashed a new error in my back while rehearsing this sequence. I've yet to determine the cause because I'm yet to heal from this lower back pain isolated to the left side--something brand new to my world of back pain, btw--but suffice to say it's really f*cking up the steady, healthy routine I'd been developing over the past handful of months.
-
-It's a fun sequence, inspired a bit by yoga and some of my favorite transitions I've learned over the course of the BDK training. It's some fun with chimpanzee into a coiled dragon into a lateral pigeon balance--how do you call it?--and then an arm balance twist to S-Seat, into a classic inverted up to combat base, skip forward into a handstand, turn out and follow-through on the second side. Fun!
+I won't embellish my feelings on this assignment. It would have been my favorite, had I not unleashed a new error in my back while rehearsing this sequence: 
 
 <iframe width="1120" height="730" sandbox="allow-same-origin allow-scripts allow-popups" src="https://tube.bdklab.com/videos/embed/85b506a6-d53f-414e-b60e-ade6984ecdef" frameborder="0" allowfullscreen></iframe>
 
+After 3 weeks of a bothered sacroiliac joing and psoaz--a triggering chain of events meant to teach me something, to be sure--I was finally able to move my body well enough to share this with someone. It was a good experience, one in which I felt very free, and I look forward to more opportunities to practice sharing BDK Mobility. 
+
+Sharing it also helped me develop the sequence further and see how it can be applied to practictioners at any level. A little of that exploration can be seen in the video, which I have cut down from an hour to save some time for reviewing eyes. Enjoy.
+
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://tube.bdklab.com/videos/embed/fdae28c3-e5ae-41e4-98c2-cc497dfecb4c" frameborder="0" allowfullscreen></iframe>
