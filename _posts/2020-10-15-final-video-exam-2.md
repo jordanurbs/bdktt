@@ -2,9 +2,9 @@
 title: "Final Video Exam 2"
 date: "2020-10-15"
 categories:
-  - certification
+  - bdk
 tags:
-  - chapter 7
+  - bdk tt
 ---
 Funny how once the end is near, I seem to stop feeling like things matter. Sounds familiar to many realms of my life.
 
