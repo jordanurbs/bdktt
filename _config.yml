@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: JordanUrbs | BDK TT
-email: jordanurbs@pm.me
-description: The site/blog/homework respository for my BDK TT.
+title: JordanUrbs | Writing
+email: hello@jordanurbs.com
+description: Jordan's thoughts, ideas, and reflections in writing.
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://bdktt.jordanurbs.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://writing.jordanurbs.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: JordanUrbs
   twitter: jordanurbs
