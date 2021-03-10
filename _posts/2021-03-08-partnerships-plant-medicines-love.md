@@ -3,7 +3,12 @@ layout: post
 category: newsletter
 title: "Chapter 2.3: Interlude! Partnerships, Plant Medicines, and Love"
 date: 2021-03-08
-excerpt: "Being a partner had normally been about me and my own, and much less about the relationship itself. I believed I cared about the other person's feelings, and at times to a fault because I tricked myself into feeling *responsible* for the other person's feelings, which then create a veil of superficiality in what should otherwise be an intimate and authentic relationship..."
+categories:
+  - argentina2020
+tags:
+  - self-reflection
+  - partnership and love
+  - ayahuasca
 ---
 ## I. Partnerships
 
