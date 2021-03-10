@@ -2,7 +2,7 @@
 title: "Zen Mind, Beginner's Mind"
 date: "2020-11-05"
 categories:
-  - certification
+  - bdk
 tags:
   - chapter 7
 ---

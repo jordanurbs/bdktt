@@ -2,7 +2,7 @@
 title: "The Talent Code"
 date: "2020-11-05"
 categories:
-  - certification
+  - bdk
 tags:
   - chapter 7
 ---

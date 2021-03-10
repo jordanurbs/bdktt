@@ -1,7 +1,11 @@
 ---
 title: "A Time to Reflect"
 date: "2020-03-23"
-coverImage: "photo_2020-03-29_22-05-02.jpg"
+coverImage: "../assets/images/photo_2020-03-29_22-05-02.jpg"
+categories:
+  - reflections
+tags:
+  - weird times
 ---
 
 It's the very last day of the lunar year, and a time for me to reflect. A lot has passed and I have grown tremendously in the past year.

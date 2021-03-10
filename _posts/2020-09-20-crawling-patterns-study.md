@@ -2,9 +2,9 @@
 title: "Crawling Patterns Study"
 date: "2020-09-20"
 categories:
-  - studies
+  - bdk
 tags:
-  - chapter 5
+  - sequences
 ---
 This is the film that got me following Budokon. I started watching Cameron’s instagram clips and tried mimicking them. What I was gathering by imitation online was helping my back issues—a lot. When they finally announced their online academy this February, I was all-in. 
 

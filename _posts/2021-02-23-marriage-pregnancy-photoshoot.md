@@ -3,12 +3,16 @@ layout: post
 category: newsletter
 title: "Chapter 2 + Pregnancy Photoshoot (feb 2020) and Zoom Wedding (feb 2021)"
 date: 2021-02-23
-image: /assets/img/zoomweddingjolau.jpg
+image: /assets/images/zoomweddingjolau.jpg
+categories:
+  - argentina2020
+tags:
+  - argentine culture
 ---
 Greetings from the other side! Lau and I finally tied the knot with the state and we are officially legally wed. (It took 13 months from the time of our actual "wedding" celebration.) And it happened on Zoom. Weird times to be sure, but it's one more bureaucratic step forward that hints at the light at the other end of the tunnel that began a year ago. Here's the comical video (music by me):
 
 <a href="https://perceptiontravel.tv/videos/watch/d526afb6-fb78-4893-8f62-1132fd624fc6" target="blank" name="video">
-<img src="../assets/img/zoomthumb.jpg"></a>
+<img src="../assets/images/zoomthumb.jpg"></a>
 
 2 videos in this one! This week's mail is a long one, spanning a variety of topics including my perspective on my partnership with Lau leading into her third trimester, my "sympathy" binge eating, a sweaty February in Argentine summer, and it nerds out a bit when I get into my laptop locking me out. There is also a video of our pregnancy photo shoot down below. The second part of Feburary 2020 will be the next email, focused on the week I spent in Chile as one "last hurrah" before my life changed forever.
 
@@ -52,7 +56,7 @@ It's funny when we realize how simple our requirements are. I'd spent so many ye
 
 She would be 8 months pregnant when fate decided to put our love, and my resolve, to the test.
 
-<img src="../assets/img/wedding.jpeg">
+<img src="../assets/images/wedding.jpeg">
 
 ### A loft on a busy street, a little routine.
 In the intersection of city and suburb, a transitioning land of industrial and airport, outside the main freeway that circled Cordoba, we found a little loft above a boutique clothing shop on a busy street. I didn't know would be a busy street based off its Airbnb listing. (Of course, all the Argentines told me that it's not at all a busy street, but I'd find out soon enough that the luxury of silence in urban areas was something reserved for a small subset of people in this country.) We moved into the quaint little cottage-like apartment whose floorboards squeaked when we walked and at times the odor of sewage rose up through the kitchen sink. Aside from a master bedroom illuminated all night long by the streetlights from the boulevard, there were two single beds in the attached attic/mezzanine. The place reminded me of somewhere you go with your parents for a family reunion.
@@ -71,11 +75,11 @@ Oh, and we would buy pastries from the gluten-free bakery two blocks down. And I
 
 Lau had some fun making GIFs of me:
 
-<img src="../assets/img/eating.gif">
+<img src="../assets/images/eating.gif">
 
-<img src="../assets/img/eating2.gif">
+<img src="../assets/images/eating2.gif">
 
-<img src="../assets/img/pushups.gif">
+<img src="../assets/images/pushups.gif">
 
 "I think you have the *sympathy pregnant eating*," Lau said to me once when she noticed my appetite for carnal vice was like nothing she had ever seen in me before. She was right, there was definitely something going on with that. I couldn't stop eating.
 
@@ -90,7 +94,7 @@ This was summer, so you'd be hard-pressed to find anyone working between one and
 This one has a video, so I think I will let it do the speaking. Music by CloZee.
 
 <a href="https://perceptiontravel.tv/videos/watch/ef5a65c6-f214-4a40-bf20-5161f0c6d7c1" target="blank" name="video">
-<img src="../assets/img/photoshoot.jpg"></a>
+<img src="../assets/images/photoshoot.jpg"></a>
 
 ### Always back up your data, son.
 

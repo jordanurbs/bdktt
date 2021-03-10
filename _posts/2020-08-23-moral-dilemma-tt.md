@@ -5,7 +5,8 @@ image: "/assets/images/qfc2kxpxvyq-scaled-e1599580823988.jpg"
 categories:
   - essays
 tags:
-  - chapter 2
+  - bdk tt
+  - morality
 ---
 
 > _You are having lunch with a friend and happen to see your best friend's romantic partner/boyfriend/girlfriend/husband/wife being intimate with someone else in the restaurant._ 

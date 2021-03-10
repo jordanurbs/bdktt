@@ -5,7 +5,7 @@ image: "/assets/images/b4op5oz4x5q-scaled.jpg"
 categories:
   - essays
 tags:
-  - chapter 2
+  - bdk tt
 ---
 
 > _Deconstruct the concepts of 'Necessary vs. Unnecessary', 'Fixed vs. Fluid' and 'Relative vs. Absolute'. Also outline what the similarities and what the key differences between the three concepts are?_ 

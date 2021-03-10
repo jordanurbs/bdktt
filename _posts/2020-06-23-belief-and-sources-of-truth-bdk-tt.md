@@ -5,7 +5,7 @@ image: "/assets/images/0xef0vdq73g-scaled.jpg"
 categories:
   - essays
 tags:
-  - chapter 1
+  - budokon tt
 ---
 
 ## What is Belief?

@@ -2,9 +2,9 @@
 title: "Final Video Exam 1"
 date: "2020-11-01"
 categories:
-  - certification
+  - bdk
 tags:
-  - chapter 7
+  - bdk tt
 ---
 I messed up this assignment, because I didn't check the instructions before spending an hour producing the video and recording it. In any case, my "student" was starting at square 0 so I am happy I could dedicate myself to instructing him to getting down the basics. I was quite proud of him (and myself!) by the end of our session.
 

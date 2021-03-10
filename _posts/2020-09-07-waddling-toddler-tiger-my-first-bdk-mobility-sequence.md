@@ -3,9 +3,9 @@ title: "\"Waddling Toddler Tiger\" - My First BDK Mobility Sequence"
 date: "2020-09-07"
 image: "/assets/images/Screen-Shot-2020-09-07-at-8.04.46-PM.png"
 categories:
-  - sequences
+  - bdk
 tags:
-  - chapter 4
+  - sequences
 ---
 
 As part of a wider effort to demonstrate the effectiveness and community potential for open-source repositories of knowledge exercises and physical practices, I've begun to formulate my BDK Mobility Teacher Training assignments as a means of prototyping a use case. Suffice to say, it's been a satisfying use of my creative energy applied to the first "academic" experience I've had in over ten years.

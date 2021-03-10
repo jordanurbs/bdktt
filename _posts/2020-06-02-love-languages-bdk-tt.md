@@ -5,7 +5,7 @@ image: "/assets/images/2podhmrvlik.jpg"
 categories:
   - essays
 tags:
-  - chapter 1
+  - budokon tt
 ---
 
 _I've been doing an online teacher training with [Budokon](https://budokon.com). It's an amazing physical practice and the reflection essays we're required to write aren't bad, either. In no particular order, I'm posting my assignments here._ _They definitely enter a space of transparency and vulnerability, so please be 1) forewarned and 2) respectful._

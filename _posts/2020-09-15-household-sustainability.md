@@ -3,9 +3,9 @@ title: "Household Sustainability"
 date: "2020-09-15"
 image: "/assets/images/tupperware.jpg"
 categories:
-  - cta
+  - sustainability
 tags:
-  - chapter 5
+  - bdk tt
 ---
 Chapter 5’s assignment has us explore our use of consumables, their cost, and our relationship with them. Like each of these Mind-Science pillars, this assignment arrived at a time when my partner and I had recently decided to support more both our local economy and local sustainability.
 A month or so back, we bought a compost bin from a local group we found on Instagram. It’s got two bins with worms and the liquid falls to the bottom… it’s definitely a step up from the raised wooden bed we had been tossing all our organic waste into.
