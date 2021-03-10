@@ -2,9 +2,9 @@
 title: "Zen Mind, Beginner's Mind"
 date: "2020-11-05"
 categories:
-  - bdk
+  - essays
 tags:
-  - chapter 7
+  - bdk tt
 ---
 The simplest way to summarize “Zen Mind, Beginner’s Mind” is just that: the title. A Zen mind stays in the beginner’s mindset. Always. It is the ends and it is the means. An open and limitless mind allows for everything and remains compassionate, free from the bias of the “expert” mind.
 

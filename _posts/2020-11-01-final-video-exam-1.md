@@ -2,7 +2,7 @@
 title: "Final Video Exam 1"
 date: "2020-11-01"
 categories:
-  - bdk
+  - movement
 tags:
   - bdk tt
 ---

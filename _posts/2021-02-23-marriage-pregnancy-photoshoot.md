@@ -1,6 +1,5 @@
 ---
 layout: post
-category: newsletter
 title: "Chapter 2 + Pregnancy Photoshoot (feb 2020) and Zoom Wedding (feb 2021)"
 date: 2021-02-23
 image: /assets/images/zoomweddingjolau.jpg

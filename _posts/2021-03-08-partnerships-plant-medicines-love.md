@@ -1,6 +1,5 @@
 ---
 layout: post
-category: newsletter
 title: "Chapter 2.3: Interlude! Partnerships, Plant Medicines, and Love"
 date: 2021-03-08
 categories:

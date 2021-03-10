@@ -2,10 +2,9 @@
 title: "Final Video Exam 3: House of the Rising Dragon"
 date: "2020-11-10"
 categories:
-  - bdk
+  - movement
 tags:
-  - chapter 7
-  - teacher training training
+  - bdk tt
 ---
 I won't embellish my feelings on this assignment. It would have been my favorite, had I not unleashed a new error in my back while rehearsing this sequence: 
 

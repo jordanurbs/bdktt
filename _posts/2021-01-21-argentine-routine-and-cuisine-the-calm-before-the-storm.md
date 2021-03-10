@@ -1,6 +1,5 @@
 ---
 layout: post
-category: newsletter
 title: "Chapter 1: Argentine Routine & Cuisine, in the calm before the storm."
 date: 2021-01-21
 categories:
