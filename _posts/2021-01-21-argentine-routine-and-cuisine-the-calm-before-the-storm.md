@@ -5,8 +5,6 @@ title: "Chapter 1: Argentine Routine & Cuisine, in the calm before the storm."
 date: 2021-01-21
 
 ---
-Hi all!
-
 It’s been a introspective time for me, questioning where to dedicate my creative energies this year, so I deeply appreciate your feedback and reaching out after the first mail. Social media to me was always a way to share my goings-on in my travels with those I cared with and had connected with. Since that golden era passed long ago I have been searching for a way to find purpose in sharing myself again outside of the toxic environment that I find those venues to be. You actually reading what I write means more than you know.
 
 Let’s dive right back in. There are no photos or videos in this installment, since nothing in life had felt worth capturing in visuals at the time (woe is me eh?)--but the upcoming chapter will have some video of our time in labor.
