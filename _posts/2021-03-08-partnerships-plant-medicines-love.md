@@ -9,6 +9,8 @@ tags:
   - partnership and love
   - ayahuasca
 ---
+This one comes in three sections. I've never been a cookie-cutter lover and I figure to get to know me better, I should share with you some personal things. 
+
 ## I. Partnerships
 
 A snippet from last time:
